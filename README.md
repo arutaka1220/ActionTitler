@@ -1,6 +1,6 @@
-# ActionTitler
-actionbarに出す文字を増やせます！
-
+# [ActionTitler](https://github.com/arutaka1220/ActionTitler/releases/download/v1.0.0/ActionTitler.js)
+actionbarに出す文字を増やせます！  
+[ダウンロード](https://github.com/arutaka1220/ActionTitler/releases/download/v1.0.0/ActionTitler.js)
 ## 例コード
 破壊,設置ブロックのidをactionbarに3秒表示する例
 ```js
