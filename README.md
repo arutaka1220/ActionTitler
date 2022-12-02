@@ -33,3 +33,6 @@ ActionTitler.deleteAll(server.Player);
 ```js
 ActionTitler.getShowKeys(server.Player);
 ```
+
+...追記
+深夜でクソコードだけど許してちょ！
