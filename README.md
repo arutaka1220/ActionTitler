@@ -34,5 +34,5 @@ ActionTitler.deleteAll(server.Player);
 ActionTitler.getShowKeys(server.Player);
 ```
 
-...追記
+...追記  
 深夜でクソコードだけど許してちょ！
